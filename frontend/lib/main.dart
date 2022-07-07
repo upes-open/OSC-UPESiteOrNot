@@ -62,8 +62,7 @@ class _MainPageState extends State<MainPage> {
                 height: 60,
                 width: 250,
                 child: ElevatedButton.icon(
-                  onPressed: () async{
-                    
+                  onPressed: () async {
                     Navigator.push(context,
                         new MaterialPageRoute(builder: (context) => upesite()));
                   },
@@ -71,13 +70,13 @@ class _MainPageState extends State<MainPage> {
                     Icons.school,
                     color: Colors.black,
                   ),
-                  label:Text(
-                          " UPESITE ",
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 25,
-                          ),
-                        ),
+                  label: Text(
+                    " UPESITE ",
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 25,
+                    ),
+                  ),
                   style: ElevatedButton.styleFrom(
                     primary: Colors.blue,
                     onPrimary: Colors.pink,
