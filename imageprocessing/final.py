@@ -30,9 +30,3 @@ def checkupesite(image):
         result = face_recognition.compare_faces([img_encoding], img_encoding2)
         os.remove("extracted/Face.png")
         return result
-
-
-
-
-
-    
