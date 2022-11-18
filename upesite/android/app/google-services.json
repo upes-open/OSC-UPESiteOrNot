@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807769936805",
+    "project_id": "upesite-or-not",
+    "storage_bucket": "upesite-or-not.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807769936805:android:df1e16d114614115ef0e4c",
+        "android_client_info": {
+          "package_name": "com.example.upesite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807769936805-826b3rhri2rcb8ictt90bl2qf22i6n4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3GIDExXGm3Dg4nBUWoqbzbkbIvvSH_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807769936805-826b3rhri2rcb8ictt90bl2qf22i6n4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
